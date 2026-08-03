@@ -1,10 +1,11 @@
+DOI: 10.5281/zenodo.21770859
 cff-version: 1.2.0
 message: "If you use OPERA-GC, please cite this exact software release and the accompanying article."
 title: "OPERA-GC: An operator-aware and selection-preserving framework for heterogeneous globular-cluster proper-motion kinematics"
 version: "1.1.0"
 date-released: "2026-08-03"
 type: software
-authors:
+author:
   - family-names: "Turaev"
     given-names: "Sobir"
     orcid: "https://orcid.org/0000-0002-4932-241X"
