@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use OPERA-GC, please cite this exact software release and the accompanying article."
+title: "OPERA-GC: An operator-aware and selection-preserving framework for heterogeneous globular-cluster proper-motion kinematics"
+version: "1.1.0"
+date-released: "2026-08-03"
+type: software
+authors:
+  - family-names: "Turaev"
+    given-names: "Sobir"
+    orcid: "https://orcid.org/0000-0002-4932-241X"
+    affiliation: "Advanced Researches of Astrophysics, Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy 33, Tashkent 100052, Uzbekistan"
+abstract: >-
+  OPERA-GC is a reproducible Python framework for preserving selection,
+  covariance, radial support, reference-frame semantics, provenance, and
+  scientific claim gates in heterogeneous HST and Gaia globular-cluster
+  proper-motion analyses. This release includes executable stage packages,
+  frozen outputs, manuscript source, figures, and integrity metadata.
+keywords:
+  - globular clusters
+  - proper motions
+  - scientific software
+  - data provenance
+  - selection functions
+  - uncertainty quantification
+  - reproducibility
+license: MIT

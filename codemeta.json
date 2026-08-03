@@ -1,0 +1,50 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "OPERA-GC",
+  "version": "1.1.0",
+  "datePublished": "2026-08-03",
+  "description": "OPERA-GC: An operator-aware and selection-preserving framework for heterogeneous globular-cluster proper-motion kinematics",
+  "programmingLanguage": "Python",
+  "applicationCategory": "Astronomical scientific software",
+  "keywords": [
+    "globular clusters",
+    "proper motions",
+    "HST",
+    "Gaia",
+    "selection functions",
+    "covariance",
+    "data provenance",
+    "reproducibility"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Sobir J.",
+      "familyName": "Turaev",
+      "@id": "https://orcid.org/0000-0002-4932-241X",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Advanced Researches of Astrophysics, Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy 33, Tashkent 100052, Uzbekistan"
+      }
+    },
+    ],
+  "operatingSystem": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "softwareRequirements": [
+    "Python >= 3.12",
+    "NumPy >= 1.26",
+    "pandas >= 2.2",
+    "SciPy >= 1.12",
+    "Matplotlib >= 3.8",
+    "Astropy >= 6.0",
+    "pytest >= 8.0"
+  ],
+  "license": [
+    "https://spdx.org/licenses/MIT.html",
+    "https://spdx.org/licenses/CC-BY-4.0.html"
+  ]
+}
