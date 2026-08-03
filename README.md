@@ -1,3 +1,4 @@
+DOI: 10.5281/zenodo.21770858
 # OPERA-GC v1.1.0
 
 **OPERA-GC: An operator-aware and selection-preserving framework for heterogeneous globular-cluster proper-motion kinematics**
