@@ -6,22 +6,12 @@
   "access_right": "open",
   "language": "eng",
   "license": "MIT",
-  "creators": [
+  "creator": [
     {
       "name": "Turaev, Sobir J.",
       "orcid": "0000-0002-4932-241X",
       "affiliation": "Advanced Researches of Astrophysics, Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy 33, Tashkent 100052, Uzbekistan"
     },
-    {
-      "name": "Nuritdinov, Salakhutdin N.",
-      "orcid": "0000-0002-0743-0981",
-      "affiliation": "Nuclear Physics and Astronomy, National University of Uzbekistan named after Mirzo Ulugbek, University 4, Tashkent 100174, Uzbekistan"
-    },
-    {
-      "name": "Yuldoshev, Qudratillo X.",
-      "orcid": "0000-0002-6554-3618",
-      "affiliation": "Advanced Researches of Astrophysics, Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy 33, Tashkent 100052, Uzbekistan"
-    }
   ],
   "description": "<p>OPERA-GC is a reproducible Python framework that represents heterogeneous HST and Gaia globular-cluster proper-motion products as explicit observational operators. The release preserves selection, radial support, weighting, covariance, reference frame, nuisance structure, provenance, validation gates, and claim status.</p><p>Version 1.1.0 contains the complete Stage 0–2F executable packages, exact frozen outputs used in the accompanying Astronomy and Computing manuscript, a 12-cluster transfer benchmark, the NGC 6397 same-star and 324-variant selection-envelope validation, the polished manuscript source and preprint, vector figures, claim ledger, benchmarks, checksums, and machine-readable metadata.</p><p>The exact published NGC 6397 617-star tracer manifest cannot be uniquely reconstructed from the public source metadata; this is preserved as an unavailable claim rather than resolved by threshold tuning.</p>",
   "keywords": [
