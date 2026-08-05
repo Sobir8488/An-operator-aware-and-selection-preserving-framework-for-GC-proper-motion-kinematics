@@ -55,7 +55,7 @@ Use `CITATION.cff`. The exact-version Zenodo DOI is **pending reservation**.
 After reserving it, run:
 
 ```bash
-python scripts/finalize_reserved_doi.py 10.5281/zenodo.XXXXXXXX
+python scripts/finalize_reserved_doi.py 10.5281/zenodo.21770859
 ```
 
 Then rebuild the checksum ledger and release ZIP as described in
